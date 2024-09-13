@@ -14,4 +14,7 @@ Prontuario comandi Git di base:
 git status
 git add
 git commit
+git clone
+git push
+git pull
 ```
