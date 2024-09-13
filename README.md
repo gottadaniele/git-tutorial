@@ -8,3 +8,10 @@
  - Operazioni di add e commit;
  - Push e Pull per la sincronizzazione in Cloud;
  - Clone di un progetto esistente;
+
+Prontuario comandi Git di base:
+```
+git status
+git add
+git commit
+```
